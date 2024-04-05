@@ -1,0 +1,317 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jaffna"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.00783459249442,
+                    9.669316542945182
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kilinochchi"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.40828941165529,
+                    9.386335023147026
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mullaithivu"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.80874423081758,
+                    9.280545969374984
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mannar"
+            },
+            "geometry": {
+                "coordinates": [
+                    79.90693259081473,
+                    8.984790787749233
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vavuniya"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.49657866312452,
+                    8.76359453807575
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anuradhapura"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.40513622410299,
+                    8.34264945588339
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puttalam"
+            },
+            "geometry": {
+                "coordinates": [
+                    79.82179652689928,
+                    8.03366659113287
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trincomalee"
+            },
+            "geometry": {
+                "coordinates": [
+                    81.23127136284717,
+                    8.585918974804045
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kurunegala"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.36217978669504,
+                    7.500624100445094
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Matale"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.61783359935754,
+                    7.479790756036294
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Polonnaruwa"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.99255905079326,
+                    7.944826830058531
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Batticaloa"
+            },
+            "geometry": {
+                "coordinates": [
+                    81.68597624130075,
+                    7.740135197466131
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gampaha"
+            },
+            "geometry": {
+                "coordinates": [
+                    79.98745409182902,
+                    7.101148116816617
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kegalle"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.33766479410531,
+                    7.254033253898953
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kandy"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.62833967699652,
+                    7.299193976569995
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Badulla"
+            },
+            "geometry": {
+                "coordinates": [
+                    81.05209462675123,
+                    6.989926933574381
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Monaragala"
+            },
+            "geometry": {
+                "coordinates": [
+                    81.34627161666344,
+                    6.875202361892065
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ampara"
+            },
+            "geometry": {
+                "coordinates": [
+                    81.67897178382538,
+                    7.30961503538002
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kaluthara"
+            },
+            "geometry": {
+                "coordinates": [
+                    79.95593512862439,
+                    6.586531225355543
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rathnapura"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.400702720516,
+                    6.683933401046431
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galle"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.2115883928164,
+                    6.040037112619061
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Matara"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.54428855997992,
+                    5.952963509495035
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hambanthota"
+            },
+            "geometry": {
+                "coordinates": [
+                    81.11863411171248,
+                    6.130578806458786
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nuwara Eliya"
+            },
+            "geometry": {
+                "coordinates": [
+                    80.75791708836863,
+                    6.9829748373208815
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}
