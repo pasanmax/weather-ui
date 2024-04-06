@@ -53,7 +53,7 @@ export class PopUpService {
           <strong>District :</strong> ${weatherData[i].district} <br>
           <strong>Temperature :</strong> ${weatherData[i].temperature} °C<br>
           <strong>Humidity :</strong> ${weatherData[i].humidity}%<br>
-          <strong>Air Pressure :</strong> ${weatherData[i].airPressure} mb<br>`);
+          <strong>Air Pressure :</strong> ${weatherData[i].airPressure} hPa<br>`);
         popup.options.closeButton = false;
         popup.options.closeOnClick = false;
         popup.options.autoPan = false;
